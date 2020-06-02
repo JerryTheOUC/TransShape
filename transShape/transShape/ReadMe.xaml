@@ -1,0 +1,9 @@
+﻿<Window x:Class="transShape.ReadMe"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ReadMe" Height="145" Width="359">
+    <Grid>
+        <Label Content="1、点击选择图片；&#xD;&#xA;2、按顺序点击左上、左下、右下、右上四个顶点；&#xD;&#xA;3、点击变形，获取转变为长方形的图像，同时保存在设置的路径中；&#xD;&#xA;4、图片过大会有问题，请自行缩小后再使用。" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Height="95" Width="331"/>
+
+    </Grid>
+</Window>
